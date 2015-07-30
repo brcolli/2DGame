@@ -1,0 +1,1 @@
+This is an action platforming game with rpg elements. Main character is a regular person (current idea is bowman) when they are in the light, but in the dark another entity comes out and surrounds his/her body.
